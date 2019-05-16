@@ -16,7 +16,7 @@ You may need to use `sudo` before `cpan` commands, depending on your setup.
 
 	cpan install Text::Levenshtein::XS  
 	cpan install Inline
-	git clone ____________
+	git clone https://github.com/egonozer/switchAmp.git
 	
 
 ## 4. USAGE:
